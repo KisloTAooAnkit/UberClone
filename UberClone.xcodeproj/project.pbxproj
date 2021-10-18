@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		14407E5B271D560F00A41044 /* SignUpController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14407E5A271D560F00A41044 /* SignUpController.swift */; };
 		14D78DEA271C85DF009DEB91 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D78DE9271C85DF009DEB91 /* Extensions.swift */; };
 		14DD9D0C2719E6C900919918 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DD9D0B2719E6C900919918 /* AppDelegate.swift */; };
 		14DD9D0E2719E6C900919918 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DD9D0D2719E6C900919918 /* SceneDelegate.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		14407E5A271D560F00A41044 /* SignUpController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpController.swift; sourceTree = "<group>"; };
 		14D78DE9271C85DF009DEB91 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		14DD9D082719E6C900919918 /* UberClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UberClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		14DD9D0B2719E6C900919918 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				14DD9D262719EAD600919918 /* LoginController.swift */,
+				14407E5A271D560F00A41044 /* SignUpController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14407E5B271D560F00A41044 /* SignUpController.swift in Sources */,
 				14DD9D0C2719E6C900919918 /* AppDelegate.swift in Sources */,
 				14DD9D272719EAD600919918 /* LoginController.swift in Sources */,
 				14DD9D0E2719E6C900919918 /* SceneDelegate.swift in Sources */,
